@@ -1,6 +1,6 @@
 ### Namaste! I'm Muskan 👩‍💻🤝
 - 👩‍💻 Primary Coding language - Java
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 Full Stack Developer To be..
 - 😄 Pronouns: She/Her
 
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width:100%;"></a></code>
